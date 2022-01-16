@@ -1,0 +1,9 @@
+#
+# Bulk data
+#
+**/*.json
+
+#
+# Documentation
+#
+/README.md
